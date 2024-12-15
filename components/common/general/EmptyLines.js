@@ -1,0 +1,49 @@
+import { View, Text } from "react-native";
+
+const EmptyLines = () =>{
+    return(
+        <View>
+            <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+                <Text>&nbsp;</Text>
+        </View>
+    );
+};
+export default EmptyLines;
